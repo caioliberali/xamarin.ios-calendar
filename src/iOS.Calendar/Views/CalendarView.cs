@@ -112,7 +112,7 @@ namespace iOS.Calendar.Views
             _viewHeader.TranslatesAutoresizingMaskIntoConstraints = false;
             _viewHeader.CalendarHeaderViewDelegate = this;
 
-            _viewWeekday = new CalendarWeekdayView(Frame);
+            _viewWeekday = new CalendarWeekdayView(frame);
             _viewWeekday.TranslatesAutoresizingMaskIntoConstraints = false;
 
             var layoutFlow = new UICollectionViewFlowLayout();
