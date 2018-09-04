@@ -7,9 +7,9 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("iOS.Calendar-Sample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Liberali Studios")]
+[assembly: AssemblyCompany("Company")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("Liberali Studios")]
+[assembly: AssemblyCopyright("Company")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
